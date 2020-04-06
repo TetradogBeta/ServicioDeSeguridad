@@ -1,5 +1,0 @@
-C:\Users\tetra\source\repos\GestorSeguridad\GestorSeguridad\bin\Debug\netstandard2.0\GestorSeguridad.deps.json
-C:\Users\tetra\source\repos\GestorSeguridad\GestorSeguridad\bin\Debug\netstandard2.0\GestorSeguridad.dll
-C:\Users\tetra\source\repos\GestorSeguridad\GestorSeguridad\obj\Debug\netstandard2.0\GestorSeguridad.csprojAssemblyReference.cache
-C:\Users\tetra\source\repos\GestorSeguridad\GestorSeguridad\obj\Debug\netstandard2.0\GestorSeguridad.AssemblyInfoInputs.cache
-C:\Users\tetra\source\repos\GestorSeguridad\GestorSeguridad\obj\Debug\netstandard2.0\GestorSeguridad.AssemblyInfo.cs
