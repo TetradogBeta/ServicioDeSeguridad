@@ -157,8 +157,8 @@ namespace ServicioDeSerguridad
             }
             aux = Path.Combine(dir, IDSLIST);
             File.WriteAllBytes(aux,stringSerialitzer.GetBytes(namesList.ToString()));
-
-            Directory.Delete(FOLDER);
+            if(Directory.Exists(FOLDER))
+              Directory.Delete(FOLDER);
             Directory.Move(dir, FOLDER);
         }
         private void LoadKeys()
