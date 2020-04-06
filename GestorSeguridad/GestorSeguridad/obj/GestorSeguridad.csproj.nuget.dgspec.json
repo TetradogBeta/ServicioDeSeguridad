@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tetra\\source\\repos\\GestorSeguridad\\GestorSeguridad\\GestorSeguridad.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tetra\\source\\repos\\GestorSeguridad\\GestorSeguridad\\GestorSeguridad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tetra\\source\\repos\\GestorSeguridad\\GestorSeguridad\\GestorSeguridad.csproj",
+        "projectName": "GestorSeguridad",
+        "projectPath": "C:\\Users\\tetra\\source\\repos\\GestorSeguridad\\GestorSeguridad\\GestorSeguridad.csproj",
+        "packagesPath": "C:\\Users\\tetra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tetra\\source\\repos\\GestorSeguridad\\GestorSeguridad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tetra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Gabriel.Cat.S.Binaris": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Gabriel.Cat.S.Seguretat": {
+              "target": "Package",
+              "version": "[1.0.2.2-Preview1.0.4, )"
+            },
+            "Gabriel.Cat.S.Utilitats": {
+              "target": "Package",
+              "version": "[1.0.4.4-preview1.0.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
