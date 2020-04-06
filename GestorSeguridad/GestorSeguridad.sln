@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorSeguridad", "GestorSeguridad\GestorSeguridad.csproj", "{3E82C8DA-E6E2-41A7-9D7A-F6A6B427B2B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestorSeguridad", "GestorSeguridad\GestorSeguridad.csproj", "{3E82C8DA-E6E2-41A7-9D7A-F6A6B427B2B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseSeguridad", "..\BaseSeguridad\BaseSeguridad\BaseSeguridad.csproj", "{ABFCEAF3-AE56-439A-A89B-CE0950EA007A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3E82C8DA-E6E2-41A7-9D7A-F6A6B427B2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E82C8DA-E6E2-41A7-9D7A-F6A6B427B2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E82C8DA-E6E2-41A7-9D7A-F6A6B427B2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFCEAF3-AE56-439A-A89B-CE0950EA007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFCEAF3-AE56-439A-A89B-CE0950EA007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFCEAF3-AE56-439A-A89B-CE0950EA007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFCEAF3-AE56-439A-A89B-CE0950EA007A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
